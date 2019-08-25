@@ -1,5 +1,4 @@
 # workingPortfolio
-# Bootstrap-Portfolio
 
 # Table of Contents
 Objective
