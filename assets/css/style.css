@@ -463,6 +463,7 @@ Author URI: http://www.adhamdannaway.com/
     #horizontal-style {
         display: table;
         width: 100%;
+        margin-bottom: 50px;
         /* table-layout: fixed; */
     }
     
@@ -485,7 +486,7 @@ Author URI: http://www.adhamdannaway.com/
         margin: 0 auto;
         padding: 0px;
         display: table;
-        overflow: hidden;
+        /* overflow: hidden; */
     }
     
     .list {
@@ -506,6 +507,50 @@ Author URI: http://www.adhamdannaway.com/
         margin-top: auto;
         margin: auto;
         width: 30%;
+    }
+    
+    .about-liftoff-work {
+        width: 227px;
+        height: 147px;
+        /* background-color: aqua; */
+        position: absolute;
+        left: 250px;
+        top: 82px;
+        opacity: .9;
+        border: black;
+        border-width: 3px;
+        border-style: double;
+        /* src: url('https://youtu.be/2A4a3mplXPo'); */
+    }
+    
+    #chartdiv {
+        width: 75%;
+        height: 500px;
+        margin: 0 auto;
+    }
+    /* Liftoff page */
+    
+    #liftoff-laptop {
+        height: 500px;
+        width: 500px;
+    }
+    
+    #imgliftoff {
+        height: 600px;
+    }
+    
+    #liftoff-work {
+        width: 328px;
+        height: 206px;
+        background-color: aqua;
+        position: absolute;
+        left: 85px;
+        top: 128px;
+        opacity: .8;
+        border: #111;
+        border-width: 1px;
+        border-style: solid;
+        src: url('https://youtu.be/2A4a3mplXPo');
     }
     /* media queries */
     
